@@ -1,0 +1,22 @@
+[
+  {
+    "label": "General Support",
+    "description": "Get help with general questions",
+    "emoji": "❓"
+  },
+  {
+    "label": "Bug Report",
+    "description": "Report a bug or issue",
+    "emoji": "🐞"
+  },
+  {
+    "label": "Billing",
+    "description": "Questions about billing and payments",
+    "emoji": "💰"
+  },
+  {
+    "label": "Other",
+    "description": "Anything else you need",
+    "emoji": "📩"
+  }
+]

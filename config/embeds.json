@@ -1,0 +1,37 @@
+{
+  "panel_embed": {
+  "title": "<a:Tickets:1384538137375674498> **ɴᴜʙɪʟᴜx™ ᴛɪᴄᴋᴇᴛ ᴘᴀɴᴇʟ**",
+  "description": "ᴡʜᴇʀᴇ ᴘʀᴇᴄɪsɪᴏɴ ᴍᴇᴇᴛs ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ.\n\nꜱᴇʟᴇᴄᴛ ᴀ ᴛɪᴄᴋᴇᴛ ᴄᴀᴛᴇɢᴏʀʏ ʙᴇʟᴏᴡ ᴀɴᴅ ᴏᴜʀ ᴛᴇᴀᴍ ᴡɪʟʟ ɢᴇᴛ ʙᴀᴄᴋ ᴛᴏ ʏᴏᴜ ᴡɪᴛʜ ʙʟᴀᴢɪɴɢ ꜰᴀꜱᴛ ꜱᴜᴘᴘᴏʀᴛ.\n\n> <:warnings:1384538443983360150>  ᴄʀᴇᴀᴛɪɴɢ ᴛɪᴄᴋᴇᴛꜱ ꜰᴏʀ ꜰᴜɴ, ᴛʀᴏʟʟɪɴɢ, ᴏʀ sᴘᴀᴍ ᴡɪʟʟ ʀᴇsᴜʟᴛ ɪɴ ᴘᴜɴɪsʜᴍᴇɴᴛ.\n\n<:categories:1384538213623791686> ᴄᴀᴛᴇɢᴏʀɪᴇꜱ:\n\n<a:GeneralSupport:1384536578071855239>  ɢᴇɴᴇʀᴀʟ ꜱᴜᴘᴘᴏʀᴛ\nꜱᴇʀᴠᴇʀ ɪssᴜᴇs, ᴀᴄᴄᴏᴜɴᴛ ʜᴇʟᴘ, ᴏʀ ɢᴇɴᴇʀᴀʟ qᴜᴇꜱᴛɪᴏɴs.\n\n<:Purchase:1384537031795019887>  ᴜᴘɢʀᴀᴅᴇꜱ & ʙɪʟʟɪɴɢ\nᴀsᴋ ᴀʙᴏᴜᴛ sᴇʀᴠɪᴄᴇ ᴜᴘɢʀᴀᴅᴇs, ᴘᴀʏᴍᴇɴᴛs, ᴏʀ ᴘʟᴀɴ ᴅᴇᴛᴀɪʟs.\n\n<:suggestion:1384537116163309638>  ꜱᴜɢɢᴇꜱᴛɪᴏɴ\nsʜᴀʀᴇ ɪᴅᴇᴀꜱ, ꜰᴇᴀᴛᴜʀᴇ ʀᴇǫᴜᴇꜱᴛs, ᴏʀ ᴇɴʜᴀɴᴄᴇᴍᴇɴᴛꜱ ꜰᴏʀ ɴᴜʙɪʟᴜx.\n\n<a:question_mark:1384537292428939294>  ᴏᴛʜᴇʀ\nɪꜰ ɪᴛ ᴅᴏᴇꜱɴ’ᴛ ꜰɪᴛ ᴀʙᴏᴠᴇ, ᴅʀᴏᴘ ɪᴛ ʜᴇʀᴇ.\n\n> **ᴘʀᴇᴍɪᴜᴍ ꜱᴜᴘᴘᴏʀᴛ. ᴅᴇꜱɪɢɴᴇᴅ ꜰᴏʀ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ. ᴅᴇꜱɪɢɴᴇᴅ ꜰᴏʀ ɴᴜʙɪʟᴜx™.**",
+  "color": "blurple"
+  },
+  "open_embed": {
+    "title": "Ticket Opened",
+    "description": "Hello {user},\n\nThank you for opening a ticket regarding **{ticket_type}**.\nA staff member will assist you shortly.",
+    "color": "green"
+  },
+  "close_embed": {
+    "title": "Ticket Closed",
+    "description": "Hello {user},\n\nYour ticket has been closed by {closer}. If you need further assistance, feel free to open a new ticket anytime.",
+    "color": "red"
+  },
+  "staff_ticket_alert": {
+  "title": "New Ticket Alert",
+  "description": "Hello {admin}, a new ticket has been created by {user} of type {ticket_type}!",
+  "color": "blurple"
+  },
+  "admin_ticket_close": {
+    "title": "Ticket Closed Notification",
+    "description": "{admin}, the ticket opened by {user} has been closed and closed by {closer}.",
+    "color": "red"
+  },
+  "log_ticket_close": {
+    "title": "Ticket Closure Log",
+    "description": "The ticket opened by {user} has been closed by {closer}.",
+    "color": "red"
+  },
+  "log_ticket_open": {
+    "title": "🎫 New Ticket Opened",
+   "description": "A new ticket has been opened by {user}.\n**Type:** {ticket_type}",
+   "color": "blurple"
+  }  
+}
